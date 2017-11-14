@@ -269,6 +269,12 @@ https://help.ubuntu.com/community/IPMI
 https://www.thomas-krenn.com/de/wiki/IPMI_Konfiguration_f%C3%BCr_Supermicro_Systeme
 https://www.thomas-krenn.com/de/wiki/Softwaretools_f%C3%BCr_IPMI_im_%C3%9Cberblick
 
+* Read the SEL - system error log:
+```ipmitool sel list```
+
+* Clear the SEL
+```ipmitool sel clear```
+
 
 ### :: Switch ::
 
