@@ -199,6 +199,10 @@ http://breden.org.uk/2009/05/10/home-fileserver-zfs-file-systems/
 * Understanding the spaces used by ZFS <br/>
 https://blogs.oracle.com/observatory/understanding-the-space-used-by-zfs
 
+
+
+
+
 <a name="docker" /> <br/>
 ### :: Docker ::
 
@@ -224,6 +228,10 @@ creates and starts a container
 
 * Docker start <br/>
 starts a container
+
+* Update a single container of docker-compose <br/>
+```docker-compose up -d --no-deps --build <service_name> ```
+
 
 * Look at all the info on a container (including IP address) <br/>
 ``` docker inspect ```
@@ -259,6 +267,9 @@ docker network disconnect -f <networkname>
 docker network rm <networkname>
 ```
 https://github.com/moby/moby/issues/20398
+
+
+
 
 
 <a name="ipmi" />
