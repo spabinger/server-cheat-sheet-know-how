@@ -333,6 +333,16 @@ https://serverfault.com/questions/571714/setting-up-bridged-lxc-containers-with-
 
 * Port forwarding LXC: https://wiki.debian.org/LXC/MasqueradedBridge
 
+* Create a new LXC container <br/>
+```
+lxc-create -t download -n my-container
+-- enter the distribution
+-- enter the release
+-- enter the architecture
+lxc-start -n my-container -d
+lxc-attach -n my-container
+```
+
 * Backup <br />
 https://stackoverflow.com/questions/23427129/how-do-i-backup-move-lxc-containers
 ```
