@@ -270,6 +270,8 @@ docker network rm <networkname>
 ```
 https://github.com/moby/moby/issues/20398
 
+* Problem with Docker inside a VM on Windows
+http://abeak.blogspot.co.at/2016/08/solving-docker-in-virtualbox-dns-issue.html
 
 
 
