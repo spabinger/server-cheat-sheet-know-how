@@ -199,7 +199,8 @@ http://breden.org.uk/2009/05/10/home-fileserver-zfs-file-systems/
 * Understanding the spaces used by ZFS <br/>
 https://blogs.oracle.com/observatory/understanding-the-space-used-by-zfs
 
-
+* Send snapshot to other ZFS system<br/>
+https://www.flagword.net/2010/02/send-a-complete-zfs-pool/
 
 
 
