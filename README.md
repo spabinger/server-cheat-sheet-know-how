@@ -178,6 +178,9 @@ Volumes are listed here: /dev/zvol/tank/
 ``` sudo zpool iostat -v <pool> ```
 
 * Send a ZFS snapshot <br/>
+``` zfs send storage/xx@xx | ssh xxx.xxx.xxx.xxx@root "zfs receive -Fd xxx" ```
+or recursive
+``` zfs send -R storage/xx@xx | ssh xxx.xxx.xxx.xxx@root "zfs receive -Fd xxx" ```
 ``` zfs send -v storage/xxx@29062017 | pv -B 1g | ssh xxx.xxx.xxx.xxx zfs receive storage/xxx ```
 
 * ZFS Raid levels <br/>
