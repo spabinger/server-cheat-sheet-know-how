@@ -197,7 +197,8 @@ https://calomel.org/zfs_raid_speed_capacity.html
 http://serverascode.com/2014/07/03/add-ssd-cache-zfs.html
 
 * More information on ZFS <br/>
-http://breden.org.uk/2009/05/10/home-fileserver-zfs-file-systems/
+http://breden.org.uk/2009/05/10/home-fileserver-zfs-file-systems/ <br/>
+https://ramsdenj.com/2016/08/29/arch-linux-on-zfs-part-3-followup.html
 
 * Understanding the spaces used by ZFS <br/>
 https://blogs.oracle.com/observatory/understanding-the-space-used-by-zfs
