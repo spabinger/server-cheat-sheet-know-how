@@ -58,6 +58,9 @@ https://help.ubuntu.com/lts/serverguide/installing-upgrading.html
 * Check speed / connection of network cards <br/>
 ``` ethtool <eth0> ```
 
+* Bring interface up <br/>
+http://mirrors.deepspace6.net/Linux+IPv6-HOWTO/x1028.html
+
 * Network class <br/>
 ``` lshw -class network ```
 
