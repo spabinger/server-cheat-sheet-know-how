@@ -167,12 +167,19 @@ print all
 * Show snapshots <br/>
 ``` zfs list -t snapshot ```
 
-* Volumes <br>
+* Volumes <br/>
 ```
 zfs list -t volumes
 Volumes are listed here: /dev/zvol/tank/
 
 ```
+
+* Zpool not showing<br/>
+https://github.com/zfsonlinux/zfs/issues/6077
+```
+zpool import <storage>   <- name of the storage
+```
+
 
 * Show iostats <br/>
 ``` zpool iostat 2 ```
