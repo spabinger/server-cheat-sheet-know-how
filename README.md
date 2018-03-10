@@ -329,6 +329,7 @@ https://en.wikipedia.org/wiki/Dell_PowerConnect#5500_series
 * LXC information: <br />
 http://www.cyberciti.biz/faq/howto-forcefully-stop-and-kill-lxc-container-on-linux/ <br />
 https://help.ubuntu.com/lts/serverguide/lxc.html <br />
+https://gist.github.com/edlerd/bef77bb0a9469ce6afce2d22760233e7 <br/>
 
 * List machines: <br/>
 `lxc-ls -f`
