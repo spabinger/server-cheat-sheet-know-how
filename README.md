@@ -330,6 +330,7 @@ https://en.wikipedia.org/wiki/Dell_PowerConnect#5500_series
 http://www.cyberciti.biz/faq/howto-forcefully-stop-and-kill-lxc-container-on-linux/ <br />
 https://help.ubuntu.com/lts/serverguide/lxc.html <br />
 https://gist.github.com/edlerd/bef77bb0a9469ce6afce2d22760233e7 <br/>
+http://blog.boyeau.com/quick-install-install-zfs-file-system-on-ubuntu-14-04/ <br/>
 
 * List machines: <br/>
 `lxc-ls -f`
