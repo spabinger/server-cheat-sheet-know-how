@@ -6,6 +6,7 @@
 [LXC](#lxc) <br/>
 [Network](#network) <br/>
 [Resources/Misc](#resources_misc) <br/>
+[Screen](#screen) <br/>
 [Visudo](#visudo) <br/>
 [ZFS](#zfs) <br/>
 
@@ -288,6 +289,15 @@ https://github.com/moby/moby/issues/20398
 
 * Problem with Docker inside a VM on Windows<br/>
 http://abeak.blogspot.co.at/2016/08/solving-docker-in-virtualbox-dns-issue.html
+
+
+
+<a name="screen" />
+
+### :: Screen ::
+* Fix ```'/var/run/screen': Permission denied```<br/>
+https://superuser.com/questions/1195962/cannot-make-directory-var-run-screen-permission-denied <br/>
+```sudo /etc/init.d/screen-cleanup start```
 
 
 
