@@ -80,6 +80,9 @@ http://mirrors.deepspace6.net/Linux+IPv6-HOWTO/x1028.html
 * Port forwarding <br />
 ``` /etc/rc.local ```
 
+* Host configuration ```/etc/hosts``` ```/etc/hostname``` <br/>
+https://askubuntu.com/questions/59458/error-message-sudo-unable-to-resolve-host-user/177381
+
 * Check speed between two servers <br/>
   * ```sudo apt-get install iperf```
   * We'll start an iperf server on one of the machines: <br/>
