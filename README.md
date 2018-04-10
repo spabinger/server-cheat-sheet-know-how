@@ -173,7 +173,7 @@ print all
 
 * Volumes <br/>
 ```
-zfs list -t volumes
+zfs list -t volume
 Volumes are listed here: /dev/zvol/tank/
 
 ```
