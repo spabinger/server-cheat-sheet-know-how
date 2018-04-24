@@ -177,6 +177,9 @@ zfs list -t volume
 Volumes are listed here: /dev/zvol/tank/
 
 ```
+* Custom ZFS list <br/>
+``` zfs list -o name,mountpoint,mounted,my.custom:property ```
+
 
 * Zpool not showing<br/>
 https://github.com/zfsonlinux/zfs/issues/6077
