@@ -194,6 +194,9 @@ zpool import <storage>   <- name of the storage
 * Show detailed io <br/>
 ``` sudo zpool iostat -v <pool> ```
 
+* ZFS on Root <br/>
+https://github.com/zfsonlinux/zfs/wiki/Ubuntu-16.04-Root-on-ZFS
+
 * Send a ZFS snapshot <br/>
 ``` zfs send storage/xx@xx | ssh xxx.xxx.xxx.xxx@root "zfs receive -Fd xxx" ```
 or recursive
