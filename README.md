@@ -226,6 +226,9 @@ https://blogs.oracle.com/observatory/understanding-the-space-used-by-zfs
 * Problems with mount points <br/>
 https://support.symantec.com/en_US/article.TECH179042.html
 
+* ZFS after first boot <br/>
+https://support.symantec.com/en_US/article.TECH179042.html
+
 * Send snapshot to other ZFS system <br/>
 https://www.flagword.net/2010/02/send-a-complete-zfs-pool/
 https://unix.stackexchange.com/questions/263677/how-to-one-way-mirror-an-entire-zfs-pool-to-another-zfs-pool
