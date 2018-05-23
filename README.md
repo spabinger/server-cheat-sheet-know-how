@@ -236,6 +236,17 @@ https://support.symantec.com/en_US/article.TECH179042.html
 https://www.flagword.net/2010/02/send-a-complete-zfs-pool/
 https://unix.stackexchange.com/questions/263677/how-to-one-way-mirror-an-entire-zfs-pool-to-another-zfs-pool
 
+* ZFS - Docker problem <br>
+```
+Docker not starting?
+> zpool export <poolname>
+> service docker stop (just for safety)
+> mv var/lib/docker /var/lib/docker_bak
+> zpool import <poolname>
+> service docker start
+```
+
+
 * ZREP <br/>
 http://www.bolthole.com/solaris/zrep/
 http://www.bolthole.com/solaris/zrep/zrep.documentation.html
