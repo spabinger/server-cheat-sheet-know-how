@@ -209,6 +209,9 @@ http://www.zfsbuild.com/2010/05/26/zfs-raid-levels/
 * Improve performance of ZFS <br/>
 https://icesquare.com/wordpress/how-to-improve-zfs-performance/
 
+* ZFS Evaluation (Bachelor Thesis <br/>
+http://pubman.mpdl.mpg.de/pubman/item/escidoc:2403926/component/escidoc:2403925/Then_Bachelor.pdf
+
 * ZFS RAID level performance <br/>
 https://icesquare.com/wordpress/zfs-performance-mirror-vs-raidz-vs-raidz2-vs-raidz3-vs-striped/
 https://calomel.org/zfs_raid_speed_capacity.html
