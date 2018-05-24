@@ -460,6 +460,19 @@ http://www.binarytides.com/linux-find-command-examples/
 ``` rsync --bwlimit=<kb/second> <source> <dest> ```
 
 
+### :: FIO (IO Performance testing ::
+
+* Output description
+https://tobert.github.io/post/2014-04-17-fio-output-explained.html
+
+* Introduction (German)
+https://www.thomas-krenn.com/de/wiki/Fio_Grundlagen
+
+* Doc (man-page)
+https://linux.die.net/man/1/fio
+
+
+
 
 ### :: Useful information ::
 
