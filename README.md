@@ -454,6 +454,13 @@ https://github.com/brentp/450k-analysis-guide
 * Find <br/>
 http://www.binarytides.com/linux-find-command-examples/
 
+* Mount Windows share<br/>
+https://superuser.com/questions/850301/mount-error5input-output-error-on-mount
+```
+Add vers=3.0 if 'Mount error(5):Input/output error on mount'
+//ADDRESS	/mnt/xy	cifs	credentials=.mycreds,uid=1000,gid=1000,vers=3.0	0	0
+```
+
 ### :: RSYNC ::
 
 * Use only limited bandwith:<br/>
