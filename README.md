@@ -7,6 +7,7 @@
 [Network](#network) <br/>
 [Resources/Misc](#resources_misc) <br/>
 [Screen](#screen) <br/>
+[SSH](#ssh) <br/>
 [Visudo](#visudo) <br/>
 [ZFS](#zfs) <br/>
 
@@ -439,9 +440,13 @@ rsync -avPrh -e "ssh -p 10009" folder user@SERVER:/DEST/
 ```sudo visudo```
 Be aware that adding a user to the *sudo* group overrides the entries in sudoers
 
-
+<a name="ssh" /> <br/>
 ### :: SSH ::
+* OpenSSH help
 https://help.ubuntu.com/lts/serverguide/openssh-server.html
+
+* Slow ssh prompt?
+https://askubuntu.com/questions/246323/why-does-sshs-password-prompt-take-so-long-to-appear
 
 <a name="resources_misc" /> <br/>
 ### :: Resources / Misc ::
