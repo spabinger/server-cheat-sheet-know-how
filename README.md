@@ -107,6 +107,13 @@ https://linuxconfig.org/configuring-virtual-network-interfaces-in-linux <br />
 ``` sudo ifdown <interface> && sudo ifup <interface> ``` <br />
 ``` sudo service networking restart ```
 
+* Netplan (new config with Ubuntu 18.04.)
+https://netplan.io/examples
+https://www.linux.com/learn/intro-to-linux/2018/9/how-use-netplan-network-configuration-tool-linux
+https://websiteforstudents.com/configure-static-ip-addresses-on-ubuntu-18-04-beta/
+
+
+
 <a name="iptables" /> <br/>
 #### IPTABLES
 * List IPTABLES <br/>
