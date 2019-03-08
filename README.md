@@ -393,6 +393,9 @@ https://help.ubuntu.com/lts/serverguide/lxc.html <br />
 https://gist.github.com/edlerd/bef77bb0a9469ce6afce2d22760233e7 <br/>
 http://blog.boyeau.com/quick-install-install-zfs-file-system-on-ubuntu-14-04/ <br/>
 
+* Difference LXC LXD
+https://www.sumologic.com/blog/code/lxc-lxd-explaining-linux-containers/
+
 * List machines: <br/>
 `lxc-ls -f`
 * Shutdown: <br/>
