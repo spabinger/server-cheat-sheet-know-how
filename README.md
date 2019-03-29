@@ -244,6 +244,9 @@ https://support.symantec.com/en_US/article.TECH179042.html
 https://www.flagword.net/2010/02/send-a-complete-zfs-pool/
 https://unix.stackexchange.com/questions/263677/how-to-one-way-mirror-an-entire-zfs-pool-to-another-zfs-pool
 
+* Endless resilvering<br/>
+https://serverfault.com/questions/523390/zfs-endless-resilvering
+
 * ZFS - Docker problem <br>
 ```
 Docker not starting?
