@@ -155,6 +155,11 @@ print all
 * Display all SCSI disks <br/>
 ```lsscsi -s```
 
+* Scan the SCSI bus <br/>
+http://fibrevillage.com/storage/279-hot-add-remove-rescan-of-scsi-devices-on-linux <br/>
+``` echo "- - -" > /sys/class/scsi_host/host1/scan ```
+
+
 
 
 <a name="zfs" /> <br/>
