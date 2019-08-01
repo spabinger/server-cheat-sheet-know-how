@@ -255,6 +255,9 @@ https://serverfault.com/questions/523390/zfs-endless-resilvering
 * Blog - ZFS it's that simple<br/>
 https://www.pluralsight.com/blog/software-development/zfs-its-that-simple
 
+* Performance tuning<br/>
+http://open-zfs.org/wiki/Performance_tuning
+
 * ZFS - Docker problem <br>
 ```
 Docker not starting?
