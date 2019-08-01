@@ -252,6 +252,9 @@ https://unix.stackexchange.com/questions/263677/how-to-one-way-mirror-an-entire-
 * Endless resilvering<br/>
 https://serverfault.com/questions/523390/zfs-endless-resilvering
 
+* Blog - ZFS it's that simple<br/>
+https://www.pluralsight.com/blog/software-development/zfs-its-that-simple
+
 * ZFS - Docker problem <br>
 ```
 Docker not starting?
